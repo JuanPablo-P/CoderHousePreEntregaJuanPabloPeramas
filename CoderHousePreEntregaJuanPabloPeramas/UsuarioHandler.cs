@@ -38,7 +38,8 @@ namespace CoderHousePreEntregaJuanPabloPeramas
             }
             return usuarios;
         }
-        public void MostrarUsuarios()
+
+        public void MostrarUsuario()
         {
             Console.WriteLine("-- Usuarios --");
             foreach (Usuario usuario in TraerUsuarios())

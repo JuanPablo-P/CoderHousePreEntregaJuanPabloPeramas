@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\CoderHouse\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas.csproj",
+      "projectUniqueName": "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas.csproj",
       "projectName": "CoderHousePreEntregaJuanPabloPeramas",
-      "projectPath": "D:\\Escritorio\\CoderHouse\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas.csproj",
+      "projectPath": "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas.csproj",
       "packagesPath": "C:\\Users\\Juanpi\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\CoderHouse\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\obj\\",
+      "outputPath": "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Juanpi\\AppData\\Roaming\\NuGet\\NuGet.Config",

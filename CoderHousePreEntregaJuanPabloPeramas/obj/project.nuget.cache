@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCOG8WcVY3USCoIsZ66UFqJLf4QQnoWe46cCAWvq0T63SSxPSj88IVeHFZwLgmpn9RoL3ACwcF63TMK3QXZnZg==",
+  "dgSpecHash": "5zSeXZrPr7m+4/Md1aUxZUpCG+Oau+y2bQQdwwiduAfukq1w1o3InWoJxjzG2B0uo1ZDM1rc+ekPrAqsJ/50KQ==",
   "success": true,
-  "projectFilePath": "D:\\Escritorio\\CoderHouse\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas.csproj",
+  "projectFilePath": "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas\\CoderHousePreEntregaJuanPabloPeramas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juanpi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Juanpi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
